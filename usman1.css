@@ -1,0 +1,25 @@
+form{
+    text-align: center;
+    width: 100%;
+    
+
+background-repeat: no-repeat;
+background-size: cover;
+font-style: italic;
+ padding-top: 10%;
+
+
+}
+div{
+    margin: 10px;
+    text-align: center;
+}
+body{
+    background-image: url(20566006.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    color: gold;
+
+}
